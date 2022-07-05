@@ -33,6 +33,7 @@ let sviListElementi = document.querySelectorAll(".firstElement")
 
             }else{ 
                 alert("Unos ne sme biti prazno polje");
+                console.log("radi")
             } 
             
         } 
