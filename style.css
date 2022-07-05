@@ -1,0 +1,23 @@
+div{
+display: block;
+position: relative;
+height: 50px;
+width: 250px;
+margin-left: 1%;
+}
+
+h1{
+ color: rgb(0, 195, 255);
+ 
+}
+ul{
+    padding: 10px;
+    border: 1px dotted blue;
+    background-color: rgba(0, 195, 255, 0.164);
+    height: 20px;
+    
+}
+
+ul li.checked {
+    text-decoration: line-through;
+}

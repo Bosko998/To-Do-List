@@ -1,0 +1,37 @@
+div{
+    display: block;
+    position: relative;
+    height: 50px;
+    width: 250px;
+    
+    }
+  
+    h1{
+     color: rgb(0, 195, 255);
+     
+    }
+    
+
+    .dugmeDodaj{
+        width: 100%;
+        padding: 3%;
+        text-align: center;
+        background-color: rgba(0, 0, 255, 0.692);
+    }
+
+    .inpuKlasa{
+        width: 100%;
+        padding: 2%;
+    }
+ 
+    li{
+        padding: 10px;
+        border: 1px dotted blue;
+        background-color: rgba(0, 195, 255, 0.164);
+        height: 20px;
+        margin-bottom: 5%;
+
+    } 
+    .classMainUl{
+        margin-left: -15%;
+    }
